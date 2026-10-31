@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-# I forked this repo to my account
+# I forked this repo to my new account
 def add(a, b):
     return a + b
 
